@@ -28,3 +28,21 @@ Copy and fill this in privately. Do not post the completed version in the public
 - Deck retirement policy: review at closure/rejection or 60 days since application/latest substantive hiring update, whichever is later; approval before removal.
 - Scheduled review details: none unless actually configured and confirmed.
 - Profile last reviewed at / by:
+
+## Approved search learning
+
+Maintain this section privately. Use [SEARCH_FEEDBACK.md](SEARCH_FEEDBACK.md) for the review process and evidence rules.
+
+- Latest private review location / observation window:
+- Responsibilities and role groups I favor, with reasons:
+- Roles I chose or skipped and why:
+- Verified employer responses / supporting application keys:
+- Tentative patterns and alternative explanations:
+- Approved search emphasis and neighboring titles:
+- Approved exploration areas:
+- Proposed changes awaiting my decision:
+- Approval date / approved by / profile version:
+- Constraints rechecked:
+- Next review question:
+
+A submission shows effort and interest; it does not prove employer interest. Preserve pending outcomes and avoid inferring rejection reasons.
