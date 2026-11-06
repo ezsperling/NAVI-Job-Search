@@ -61,6 +61,9 @@ A prepared resume is not proof of submission. An automatic confirmation is not a
 - [Private profile template](My_Job_Search_Profile.md)
 - [Application record and Q&A template](Application_Record.md)
 - [Official ChatGPT references](SOURCES.md)
+- [Fictional application walkthrough](EXAMPLE_WALKTHROUGH.md)
+- [Project case study and design decisions](CASE_STUDY.md)
+- [Roadmap and evaluation priorities](ROADMAP.md)
 
 Open a file on GitHub to read it. To save its text, use **Raw** or **Download raw file** where available, or copy the text into your own document. A CSV is a plain spreadsheet file; import it into your own private sheet. Your personal records do not belong in this public repository.
 
