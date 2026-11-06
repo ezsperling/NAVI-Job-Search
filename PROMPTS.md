@@ -45,3 +45,11 @@ A prompt is just a request. Replace the words in brackets with your details. Sup
 ## Review my results
 
 > Review interview conversion by role category, source, resume version, and deck usage. Use confirmed applications and explain missing data or small samples. Do not claim that a deck or wording caused an interview from correlation alone. Recommend a focused adjustment and check any deck retirement reviews against the latest substantive hiring update.
+
+## Improve my next search from previous results
+
+> Use SEARCH_FEEDBACK.md with my current approved profile and authorized private tracker/application records. Reconcile recent outcomes before drawing conclusions. Separate my choices and skip reasons from actual submissions, recruiter screens, interviews, and explicit employer feedback. Group by responsibilities, industry, seniority, and skills. Show source application keys, dates, counts, observation windows, pending outcomes, and limitations. Do not infer rejection reasons or claim causation from small samples. Propose a focused adjustment for my approval; preserve my hard constraints. Save approved learning privately when you can verify the write, otherwise give me the update to save. Use that approved version in the next search, explain each role's fit, and retain relevant adjacent opportunities. This request does not create a recurring task.
+
+## Tell NAVI why I chose or skipped a role
+
+> For [company/role/reference], record that I [chose/skipped] it because [reason] in my private search review. Treat this as preference feedback, not an employer outcome. Check whether I am explicitly changing a hard constraint; ask if unclear. Keep the existing application history intact.
